@@ -1,0 +1,12 @@
+app:
+  lan: false # 是否校内网
+  schedule: false # 是否定时执行
+  schedule_time: 2022-12-20 12:30:00
+
+cookie:
+  JSESSIONID: 6D39E7918EDBC744F2A177BE10F4E61C.181
+  SVRNAME: xk16
+
+courses:
+  - HH593003_001
+  - MY198004_003

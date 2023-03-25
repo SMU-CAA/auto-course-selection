@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.1
+pyjson5==1.6.2
+PyYAML==6.0
+requests==2.28.1
